@@ -1,5 +1,12 @@
 edi-workshop-git
 ================
 
-github�̎g�����B
+github入門
+
+今やってます。
+
+–　リスト
+–　リスト
+
+ヘッダー
 
